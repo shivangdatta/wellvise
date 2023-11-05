@@ -8,5 +8,5 @@ Visit our live production site [here](https://6546e15f30cd2a68f3448a5a--courageo
 ![Screenshot 2](screenshots/screenshot2.png)  
 ![Screenshot 3](screenshots/screenshot3.png)  
 ![Screenshot 4](screenshots/screenshot4.png)  
-![Screenshot 5](screenshots/screenshot5.png)  
+![Screenshot 5](screenshots/screenshot5.jpg)  
 
